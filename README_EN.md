@@ -89,7 +89,7 @@ Or trigger with: "analyze through a Wanxue lens" · "apply tip-toe management th
 
 ## About *Wanxue*
 
-> *Wanxue* is one of China's earliest documented cases of influencer counter-culture. It sits alongside *Huaxue*, *Jiuxue*, and *Mingxue* as one of Douban's Four Great Academic Disciplines. The #晚学# topic on Xiaohongshu has exceeded 10.2 billion views. The only person who hasn't profited from the *Wanxue* boom is the subject herself.
+> *Wanxue* is one of China's earliest documented cases of influencer counter-culture. It sits alongside *Huaxue*, *Jiuxue*, and *Mingxue* as one of Douban's Four Great Academic Disciplines. The #晚学# topic on Xiaohongshu has exceeded 10.2 billion views. Branch White Coat Black Pants Han Language and Literature Joint after-school Tutoring, essential textbook for learning Cantonese.
 
 ---
 
