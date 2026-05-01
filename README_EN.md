@@ -1,19 +1,17 @@
 # lets.skill
 The Wanxue Operating System
 
-> "I have no obligation to share." —— Size-36-and-a-half herself
+> "no obligation to share"
 
-> "The only person who hasn't profited from the Wanxue boom is the subject herself."
+> "I found you are really the kind of person who takes everything too seriously-er"
 
 A runnable cognitive framework for *Wanxue* research.
 
-The corpus evolves alongside the discipline.
+only size 36.5
 
 <div align="center">
 
-*Spend less. Signal more.*
-
-from Douban to the universe
+*I'm very glad that you also like art and have your own opinions*
 
 </div>
 
