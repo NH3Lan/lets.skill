@@ -1,0 +1,21 @@
+{
+  "name": "晚晚",
+  "slug": "wanwan",
+  "created_at": "2026-05-01T00:00:00Z",
+  "updated_at": "2026-05-01T00:00:00Z",
+  "version": "v1",
+  "profile": {
+    "company": "",
+    "level": "",
+    "role": "",
+    "gender": "",
+    "mbti": ""
+  },
+  "tags": {
+    "personality": [],
+    "culture": []
+  },
+  "impression": "",
+  "knowledge_sources": [],
+  "corrections_count": 0
+}
