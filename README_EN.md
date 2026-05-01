@@ -73,8 +73,8 @@ Or trigger with: "analyze through a Wanxue lens" · "apply tip-toe management th
 ### Wanxue Course Material System
 - Classic course materials: quotes / wealth management / social climbing / PR disasters / lineage management
 - Fan ecosystem: Douban / Xiaohongshu / Bilibili / Douyin / YouTube
-- *Han Linguistics* sub-discipline
-- Academic research: Wuhan University media scholar Liu Jiayin's dedicated paper
+- *Han Linguistics* sub-discipline double major
+- Academic research: Thank you, classmate TA, international student, exchange student, senior student's courseware, alumnus, and excellent graduation thesis
 
 ---
 
