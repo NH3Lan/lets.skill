@@ -1,6 +1,23 @@
 # lets.skill
+The Wanxue Operating System
 
-> A Claude Code Skill built on *Wanxue* — the internet's most persistent academic discipline about a single influencer.
+> "I have no obligation to share." —— Size-36-and-a-half herself
+
+> "The only person who hasn't profited from the Wanxue boom is the subject herself."
+
+A runnable cognitive framework for *Wanxue* research.
+
+The corpus evolves alongside the discipline.
+
+<div align="center">
+
+*Spend less. Signal more.*
+
+from Douban to the universe
+
+</div>
+
+---
 
 ## What This Is
 
@@ -8,7 +25,9 @@
 
 It's not a quote database. It reconstructs a specific communication strategy: **embedding status signals in casual conversation, refusing to share rather than showing off, and staying silent rather than defending.**
 
-## Core Frameworks
+---
+
+## 5 Core Frameworks
 
 | Framework | Logic |
 |-----------|-------|
@@ -18,30 +37,65 @@ It's not a quote database. It reconstructs a specific communication strategy: **
 | **Don't Take the Bait** | Questions that link back to past controversies get no response |
 | **Silence as Strategy** | Never address drama directly — redirect with new content |
 
+---
+
+## Installation
+
+```bash
+# Global install (recommended)
+git clone https://github.com/NH3Lan/lets.skill ~/.claude/skills/wanwan
+```
+
+Then in Claude Code, type:
+
+```
+/wanwan
+```
+
+Or trigger with: "analyze through a Wanxue lens" · "apply tip-toe management theory" · "how would she respond"
+
+---
+
+## What the Skill Does
+
+- **Roleplay mode**: First-person responses with authentic tone, boundaries, and deflection patterns drawn from real source material
+- **Research mode**: Full Wanxue course material library — locate any event on the Wanxue coordinate system
+- **Trap detection**: Automatically identifies questions that link to past controversies and models the correct non-response
+- **Han Linguistics branch**: Lin Han's literary corpus available as a sub-discipline
+
+---
+
 ## Source Material
 
-- Classic *Wanxue* course materials (quotes, wealth management, social climbing, PR disasters)
-- Fan ecosystem across Douban / Xiaohongshu / Bilibili / Douyin / YouTube
-- *Han Linguistics* — the sub-discipline studying her husband's literary output
-- Academic research and cross-platform analysis
+### Primary Sources (direct output)
+- Douban posts, Weibo updates, Xiaohongshu content
+- Interview transcripts (Pine Nut LIFE+, Hi Art, etc.)
+- Livestream clips and quotes
 
-## Activation
+### Wanxue Course Material System
+- Classic course materials: quotes / wealth management / social climbing / PR disasters / lineage management
+- Fan ecosystem: Douban / Xiaohongshu / Bilibili / Douyin / YouTube
+- *Han Linguistics* sub-discipline
+- Academic research: Wuhan University media scholar Liu Jiayin's dedicated paper
 
-In Claude Code, type `/wanwan`, or use trigger phrases:
-
-```
-/lets
-analyze this through a Wanxue lens
-apply tip-toe management theory to this situation
-```
+---
 
 ## Honest Limitations
 
-This Skill cannot:
-- Reproduce her private, unfilmed self
-- Predict her genuine reactions to specific events
-- Cover developments after 2025 (ongoing updates)
+- Based on public information — not authorized or endorsed by the subject
+- Corpus cutoff: 2025 (ongoing updates)
+- Private behavior and unpublished statements are outside this Skill's scope
+- For topics never publicly addressed, the Skill infers from frameworks — inference ≠ actual response
+
+---
 
 ## About *Wanxue*
 
 > *Wanxue* is one of China's earliest documented cases of influencer counter-culture. It sits alongside *Huaxue*, *Jiuxue*, and *Mingxue* as one of Douban's Four Great Academic Disciplines. The #晚学# topic on Xiaohongshu has exceeded 10.2 billion views. The only person who hasn't profited from the *Wanxue* boom is the subject herself.
+
+---
+
+> This Skill was generated using [colleague.skill](https://github.com/titanwings/colleague-skill)
+> Created by [@NH3Lan](https://github.com/NH3Lan)
+
+[![Made with colleague.skill](https://img.shields.io/badge/Made%20with-colleague.skill-blueviolet)](https://github.com/titanwings/colleague-skill)
